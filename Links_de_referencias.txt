@@ -1,0 +1,3 @@
+https://github.com/angelaTv/FaceMaskDetection
+https://github.com/SureshGajeli/Facemask
+https://github.com/abhishekverma1997/Live_Face_Mask_Detection
